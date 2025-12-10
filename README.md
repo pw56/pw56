@@ -17,7 +17,11 @@
 ---
 
 ## 📊 GitHub Stats
-![pw56's GitHub stats](https://github-readme-stats.vercel.app/api?username=pw56&show_icons=true&theme=radical)  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pw56/pw56/main/img/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pw56/pw56/main/img/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pw56/pw56/main/img/snake.svg">
+</picture>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pw56&layout=compact&theme=radical)  
 
 ---
