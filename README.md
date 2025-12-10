@@ -6,7 +6,6 @@
 - 🌱 Currently learning **React**
 - 🔭 Working on personal projects that combine creativity and engineering
 - 🎨 Interested in **UI/UX design** and interactive web tools
-- 📫 Reach me via [GitHub Issues](https://github.com/pw56) or discussions
 
 ---
 
@@ -37,8 +36,9 @@
 
 ---
 
-📌 What I'm Working On
-- 
+## 📌 What I'm Working On
+- Building a new web application using TypeScript and React.
+- Making my code easier to read (sometimes).
 
 ---
 
