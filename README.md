@@ -1,11 +1,17 @@
 # 👋 Hi, I'm pw56
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 - 🌏️ Based in **Saitama, Japan**
 - 💻 Shy developer exploring **open-source projects**
 - 🌱 Currently learning **React**
 - 🔭 Working on personal projects that combine creativity and engineering
 - 🎨 Interested in **UI/UX design** and interactive web tools
+
+---
+
+## 📊 GitHub Stats
+![pw56's GitHub stats](https://github-readme-stats.vercel.app/api?username=pw56&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pw56&layout=compact&theme=radical)  
 
 ---
 
@@ -31,29 +37,17 @@
 
 ---
 
-## 📊 GitHub Stats
-![pw56's GitHub stats](https://github-readme-stats.vercel.app/api?username=pw56&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pw56&layout=compact&theme=radical)  
-
----
-
 ## 📌 What I'm Working On
 - Building a new web application using TypeScript and React.
 - Making my code easier to read (sometimes).
 
 ---
 
-## 🌟 Featured Projects
-- [Web Puri](https://github.com/pw56/web-puri-project) – Japanese photo sticker app (web-based)
+## ✨ Fun Facts
+- 🏎️ Gamer at heart, loves racing games *(not very good at them though 😅)*
+- 🎵 Enjoys listening to J-POP and K-POP
 
 ---
 
 ## 📫 Contact Me
 - 🐙 GitHub: [@pw56](https://github.com/pw56)  
-
----
-
-## ✨ Fun Facts
-- 🎮 Gamer at heart, loves retro consoles  
-- 📷 Enjoys photography and editing tools  
-- ☕ Coffee fuels most of my coding sessions  
