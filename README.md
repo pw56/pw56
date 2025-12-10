@@ -1,15 +1,18 @@
 # 👋 Hi, I'm pw56
 
 ## 🧑‍💻 About Me
-> I am a junior high school student in Japan.
-> I often use coding AI.
-> This year I won't be doing much because I'm studying for my high school entrance exams.
-
 - 🌏️ Based in **Saitama, Japan**
 - 💻 Shy developer exploring **open-source projects**
 - 🌱 Currently learning **React**
 - 🔭 Working on personal projects that combine creativity and engineering
 - 🎨 Interested in **UI/UX design** and interactive web tools
+
+---
+
+## 📋 Bio
+> I am a junior high school student in Japan.👨‍🎓  
+> I often use coding AI.🤖  
+> This year I won't be doing much because I'm studying for my high school entrance exams.🏫  
 
 ---
 
