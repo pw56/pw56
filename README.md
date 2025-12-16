@@ -11,8 +11,8 @@
 
 ## 📋 Bio
 > I am a junior high school student in Japan.👨‍🎓  
-> I often use coding AI.🤖  
-> This year I won't be doing much because I'm studying for my high school entrance exams.🏫  
+> I often use coding AI.🤖
+> I will be less active this year as I am focusing on my high school entrance exams.🏫  
 
 ---
 
