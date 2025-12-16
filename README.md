@@ -22,7 +22,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pw56/pw56/main/img/snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pw56/pw56/main/img/snake.svg">
 </picture>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pw56&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pw56&layout=compact&theme=radical&cache_seconds=1800)
 
 ---
 
