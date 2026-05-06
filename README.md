@@ -10,9 +10,8 @@
 ---
 
 ## 📋 Bio
-> I am a junior high school student in Japan.👨‍🎓  
+> I am a high school student in Japan.👨‍🎓  
 > I often use coding AI.🤖
-> I will be less active this year as I am focusing on my high school entrance exams.🏫  
 
 ---
 
